@@ -1,1 +1,1 @@
-# Coelho-Ricardao
+# jogo-do-coelho
